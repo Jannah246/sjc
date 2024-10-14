@@ -1,0 +1,5 @@
+{"level":"info","message":"Mongodb URL: mongodb://localhost:27017/searchngo","service":"user-service"}
+{"level":"error","message":"NODE_ENV not found","service":"user-service"}
+{"level":"info","message":"Mongodb URL: mongodb://localhost:27017/searchngo","service":"user-service"}
+{"level":"error","message":"NODE_ENV not found","service":"user-service"}
+{"level":"error","message":"NODE_ENV not found","service":"user-service"}
